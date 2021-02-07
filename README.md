@@ -5,3 +5,12 @@ Por ultimo cada mision luego de ser finalizada, con esxito o fracaso le asigna a
 A continuacion un video en loom del programa funcionando:
 )link=
 https://www.loom.com/share/a9891a69eaaa438ea594520c0caea44d
+
+
+
+Y en esta seguna paerte del video principalmente lo que se intenta mostrar es como a traves de javascript podemos descargar las tablas en un modelo cvs para poder
+usar por ejemplo en el servicio de machine learning de  BigMl. Al realizar un curso de machine learning utilizamos este servicio para crear datasets, modelos predictivos
+y todo tipo de formas de organizar datos para poder tomar las mejores desiciones.
+El segundo link :)
+
+https://www.loom.com/share/db79396938f04c4abb270cc0d243b3b2
