@@ -4,3 +4,4 @@ Cualquiera que lea parte del codigo o incluso este Readme se dara cuenta de que 
 Por ultimo cada mision luego de ser finalizada, con esxito o fracaso le asigna automaticamente esto a quien la realizo.
 A continuacion un video en loom del programa funcionando:
 )link=
+https://www.loom.com/share/a9891a69eaaa438ea594520c0caea44d
