@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Principal.jsp</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/config/Conexion.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/controlador/Controlador.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/modelo/ShibisDao.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Shinobis.jsp</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/modelo/Misiones.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Misiones.jsp</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/modelo/HokagesDao.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Estadisticas.jsp</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/controlador/Validar.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Login.jsp</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/src/java/modelo/Hokages.java</file>
+            <file>file:/C:/Users/EVE/Documents/NetBeansProjects/KonohaDashboard/web/Hokages.jsp</file>
+        </group>
+    </open-files>
+</project-private>
